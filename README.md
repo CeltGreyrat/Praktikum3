@@ -1,5 +1,2 @@
-# Praktikum3
-Mata kuliah Bahasa Pemrograman
-Nama: Naufal Rafi Haryanto
-Nim: 312410118
-Kelas: TI.24.A1
+# Praktikum3 Program Mencari Bilangan Terbesar
+Program sederhana untuk mencari nilai terbesar dari sekumpulan bilangan yang dimasukkan oleh pengguna menggunakan loop while True dan break statement.
